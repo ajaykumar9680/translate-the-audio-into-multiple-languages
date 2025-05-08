@@ -1,0 +1,11 @@
+pygame
+transformers
+gtts
+torchaudio
+Pillow
+pydub
+pytube
+librosa
+customtkinter
+httpx
+CTkMenuBar
